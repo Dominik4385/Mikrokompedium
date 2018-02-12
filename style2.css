@@ -1,0 +1,37 @@
+#mądrości-podstrona
+{
+	font-size:45px;
+	font-weight:900;
+	height:60px;
+	float:right;
+	margin-right:100px;
+}
+
+#autor-test
+{
+	float:left;
+	font-weight:900;
+	font-size:25px;
+	margin-top:100px;
+	margin-bottom:30px;
+}
+
+#cytat-test
+{
+	float:left;
+	font-size:25px;
+	margin-top:100px;
+	margin-bottom:30px;
+}
+
+.autor
+{
+	clear:both;
+	font-weight:900;
+	font-size:25px;
+	margin-top:30px;
+}
+
+
+
+

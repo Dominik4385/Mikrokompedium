@@ -1,0 +1,480 @@
+body
+{
+		background: linear-gradient(to top, #9CF9FF,  #D2FDFF);
+		font-family: 'Lato', sans-serif;
+		
+}
+
+#container
+{
+		width: 1100px;
+		margin-left: auto;
+		margin-right: auto;
+		color: #303845;
+}
+
+#logo1
+{
+		float:left;
+		font-size: 35px;
+		margin-left: 160px;
+		letter-spacing: 4px;
+		padding: 5px;
+		color: green;
+		font-family: 'Ranga', cursive;
+		font-weight: 700;
+}
+
+#logo2
+{
+		float:left;
+		font-size: 58px;
+		margin-left: 30px;
+		letter-spacing: 4px;
+		padding: 10px;	
+		color: #FC1111;
+		font-family: 'Jacques Francois Shadow', cursive;
+}
+
+#logo3
+{
+		float: left;
+		margin-left: 450px;
+		font-size: 42px;
+		clear: both;
+		color:#2FC8FF;
+		font-weight: 900;
+		font-family: 'Ranga', cursive;
+		letter-spacing:6px;
+}
+
+#menu
+{
+		float:left;
+		margin-top:120px;
+		width: 220px;
+		height: 550px;
+		clear:both;
+}
+
+#option1
+{
+		margin-top: 20px;
+		font-size: 18px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 20px;
+		background-color:#43E853;
+}
+#option1:hover
+{
+		background-color: #26B334;
+		cursor: pointer;
+		
+	
+}
+
+#option2
+{
+		margin-top: 20px;
+		font-size: 18px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 20px;
+		background-color:#7FE8EC;
+}
+#option2:hover
+{
+		background-color: #31D0D5;
+		cursor: pointer;
+		
+	
+}
+
+#option3
+{
+		margin-top: 20px;
+		font-size: 18px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 20px;
+		background-color:#F5F06B;
+}
+									#option3:hover
+{
+		background-color: #E9E44C;
+		cursor: pointer;
+		
+	
+}
+
+#przedzielenie
+{
+	margin-top: 20px;
+	width:200px;
+	text-align: center;
+	padding:5px;
+	font-size:40px;
+	font-weight:500;
+	color:black;
+	
+	
+	
+}
+
+#option4
+{
+	
+		font-size: 18px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 20px;
+		background-color:#FD5454;
+}
+									#option4:hover
+{
+		background-color: #FA2323;
+		cursor: pointer;
+		
+	
+}
+
+#option5
+{
+		margin-top: 20px;
+		font-size: 18px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 20px;
+		background-color:#FF99FF;
+}
+									#option5:hover
+{
+		background-color: #FF66FF;
+		cursor: pointer;
+		
+	
+}
+
+
+
+
+#contenttitle
+{
+		float: left;
+		width: 700px;
+		font-size: 35px;
+		margin-left: 20px;
+		margin-top: 60px;
+		height: 50px;
+		font-weight: 900;
+}
+
+#content
+{
+		font-size: 20px;
+		padding: 20px;
+		float: left;
+		text-align: justify;
+		width: 750px;
+		
+}
+
+
+#menu2
+{
+		float:right;
+		width: 40px;
+		font-size:20px;
+	
+}
+
+#tekst
+{
+		font-size: 20px;
+		padding: 5px;
+		font-family: 'Courgette', cursive;
+		color: black;
+		clear: both;
+		float:left;
+		margin-top: 50px;
+		box-shadow: 0 0 20px 10px #ffff99;
+		letter-spacing: 2px;
+}
+
+#autor
+{
+		
+		clear: both;
+		font-size: 34px;
+		font-family: 'Dancing Script', cursive ;
+		padding: 5px;
+		height: 50px;
+		margin-left: 210px;
+
+}
+
+
+#tekst2
+{
+		font-size: 20px;
+		padding: 5px;
+		font-family: 'Courgette', cursive;
+		letter-spacing: 2px;
+		color: black;
+		float: right;
+		margin-right:36px;
+		box-shadow: 0 0 20px 10px #ffff99;
+		text-shadow: 1px 1px 1px #303845;
+
+
+}
+
+#autor2
+{
+		
+		clear: both;
+		font-size: 34px;
+		font-family: 'Dancing Script', cursive ;
+		padding: 5px;
+		float:right;
+		text-align: center;
+		margin-right: 90px;
+}
+
+
+
+#footer
+{
+		color: black;
+		margin-top: 30px;
+		background-color: #CDCDCD;
+		text-align: center;
+}
+
+a:link
+{
+	text-decoration: none;
+	color: black
+}
+
+a:visited
+{
+	text-decoration: none;
+	color: black		
+}
+
+a:hover
+{
+	text-decoration: none;
+	color:	black
+}
+
+.titlepdstr
+{
+		margin-top: 70px;
+		font-size: 35px;
+		color: grey;
+}
+
+.menu
+{
+		color:white;
+		font-weight:900;
+		font-size: 20px;
+		padding:15px;
+		width:130px;
+}
+.menu:hover
+{
+		background-color: #64656B;
+		cursor: pointer;	
+}
+
+
+
+#note
+{
+		text-align: center;
+		padding: 10px;
+		font-size: 15px;	
+}
+
+
+
+#zegar
+{
+	float: right;
+	margin-left:50px;
+	font-weight: 900;
+	width: 210px;
+	font-size:20px;
+	outline-style: solid;
+	outline-color: yellow;
+}
+
+#zaproszenie
+{
+	margin-top:60px;
+	color: #FD8814;
+	text-align: center;
+	width: 1100px;
+	height: 100px;
+	font-size:30px;
+	font-weight: 900;
+	
+	
+}
+
+#photo
+{
+	float: left;
+	margin-left: 33px;
+	
+}
+
+#tworzenie
+{
+	font-size: 27px;
+	padding: 5px;
+	margin-top: 90px;
+
+}
+
+#tworzenie2
+{
+	font-size: 27px;
+	padding: 5px;
+	margin-top:20px;
+	
+}
+
+#tekst-do-współtworzenia
+{
+	font-size: 20px;
+	padding: 2px;
+}
+
+#kategorie
+{
+	font-size: 20px;
+	padding: 2px;
+}
+
+
+.mikrokompendium
+{
+		font-weight:600;
+	
+}
+
+#mądrości
+{
+		float: left;
+		font-size: 16px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 18px;
+		background-color:#43E853;
+		margin-bottom:18px;
+		letter-spacing:2px;
+		margin-top:25px;
+		float:left;
+	
+}
+
+#sentencje
+{
+		clear: both;
+		font-size: 16px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 18px;
+		background-color:#7FE8EC;
+		margin-bottom:18px;
+		letter-spacing:2px;
+		float:left;
+}
+
+#myśli
+{
+		clear: both;
+		font-size: 16px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 18px;
+		background-color:#F5F06B;
+		letter-spacing:2px;
+		margin-bottom:18px;
+		float:left;
+}
+
+#news
+{
+		clear: both;
+		font-size: 16px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 18px;
+		background-color:#FD5454;
+		letter-spacing:2px;
+		margin-bottom:18px;
+		float:left;
+}
+
+#dowcipy
+{
+		clear: both;
+		font-size: 16px;
+		color: #000000;
+		font-weight: 900;
+		text-align: left;
+		padding: 10px;
+		width: 200px;
+		height: 18px;
+		background-color:#FF99FF;
+		letter-spacing:2px;
+		float:left;
+}
+
+#photo2
+{
+	float:none;
+	margin-left:400px;
+	margin-top:30px;
+	
+}
+
+#wsch
+{
+	margin-left:520px;
+	font-weight:900;
+	
+}
